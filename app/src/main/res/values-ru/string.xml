@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language">Язык</string>
+    <string name="meters">метры</string>
+    <string name="kilometers">километры</string>
+    <string name="centimeters">сантиметры</string>
+    <string name="feet">футы</string>
+    <string name="miles">мили</string>
+    <string name="inches">дюймы</string>
+</resources>

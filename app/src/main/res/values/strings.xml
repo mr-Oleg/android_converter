@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">Converter</string>
+    <string-array name="spinner_array">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+    <string name="language">Язык</string>
+    <string name="meters">метры</string>
+    <string name="kilometers">километры</string>
+    <string name="centimeters">сантиметры</string>
+    <string name="feet">футы</string>
+    <string name="miles">мили</string>
+    <string name="inches">дюймы</string>
+</resources>
